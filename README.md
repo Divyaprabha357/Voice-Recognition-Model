@@ -1,6 +1,4 @@
 # Voice-Recognition-Model
-# Wi-Fi Voice Remote Using ESP32
-
 ### A Wireless Voice-Controlled Computer Automation System Using ESP32, Python and Offline Speech Recognition
 
 ---
